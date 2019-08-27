@@ -1,6 +1,6 @@
 # Your code here
 def nutritious
- puts "What a nutritious meal!"
+  "What a nutritious meal!"
 end
 n = nutritious  
 def meal_choice(veg1, veg2, protein = "meat" )
